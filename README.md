@@ -35,6 +35,8 @@ Terrain generated using different heightmap
 
 ![image](https://github.com/user-attachments/assets/c2dca3be-ac19-4d13-9cf1-bec78424e888)
 
+Left to implement: Soft edges for the water surface
+
 Note: Textures for the terrain and heightmaps have not been included in this repository.
 
 
